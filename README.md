@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/thomasdgraham/](https://www.linkedin.com/in/thomasdgraham/)
 
-- ✌ Pronouns **They/Them**
+- ✌ Pronouns: **They/Them**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
