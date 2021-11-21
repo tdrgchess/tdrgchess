@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **anything in the pursuit of knowledge.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tdrgchess](https://github.com/tdrgchess)
+- 👨‍💻 Some (but not all) of my projects are available at [https://github.com/tdrgchess](https://github.com/tdrgchess)
 
 - 📝 I occasionally write articles on [https://medium.com/@tdrgraham](https://medium.com/@tdrgraham)
 
